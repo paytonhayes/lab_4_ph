@@ -1,0 +1,10 @@
+---
+title: "Binary Logistic Regression: Titanic Survival"
+author: "Payton Hayes"
+format: html
+editor: visual
+execute:
+  echo: false
+  warning: false
+  message: false
+---

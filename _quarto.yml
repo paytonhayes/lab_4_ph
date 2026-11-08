@@ -1,0 +1,10 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Titanic Binary Logistic Regression"
+
+format:
+  html:
+    theme: cosmo
